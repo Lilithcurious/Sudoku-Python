@@ -9,7 +9,7 @@ Um jogo de Sudoku completo com:
 Formato da jogada:
 linha coluna número → Ex: 1 2 5
 Comandos:
-sol - Mostra a solução
+sol - Mostra a solução / 
 sair - Encerra o jogo
 
 ---
@@ -17,5 +17,6 @@ sair - Encerra o jogo
 ##  Como jogar
 ```bash
 python main.py
+
 
 
