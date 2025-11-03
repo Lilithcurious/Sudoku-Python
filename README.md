@@ -11,9 +11,9 @@ Um jogo de Sudoku completo com:
 
 ## Estrutura do Projeto
 sudoku-python/
-├── main.py              
-├── sudoku_generator.py 
-├── sudoku_solver.py     
+├── main.py            
+├── sudoku_generator.py
+|── sudoku_solver.py
 ├── utils.py             
 ├── README.md            
 └── .gitignore           
@@ -28,8 +28,8 @@ Um jogo de Sudoku completo com:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Lilithcuriosa/Sudoku---Python.git
-cd Sudoku---Python
+git clone https://github.com/Lilithcuriosa/Sudoku-Python.git
+cd Sudoku-Python
 
 Insira jogadas no formato: linha coluna número
 Exemplo: 1 2 5 → coloca 5 na linha 1, coluna 2
@@ -38,5 +38,6 @@ Digite sol para ver a solução
 
 Requisitos
 Python 3.6+
+
 
 
